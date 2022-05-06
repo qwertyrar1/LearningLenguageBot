@@ -9,7 +9,7 @@ from phrase_generation import FINAL_PHRASE
 
 #logger = logging.getLogger(__name__)
 
-TOKEN = '5217794948:AAGLdL5jnGWE_bT4ZyqCfCW_nuGr8SLz7Vg'
+TOKEN = 'token'
 
 
 def start(update, context):
